@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm **Juniel Quines**  
+👨‍💻 **Computer Engineering Student**
 
-<!--
-**QuinesJuniel/QuinesJuniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍🎓 About Me  
+- 📚 Currently studying at **Batangas State University**, taking courses in Computer Engineering.  
+- 🚀 Passionate about technology, solving problems, and creating efficient systems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📘 Subjects and Areas of Expertise  
+
+---
+
+## 📂 Projects and Activities  
+
+---
+
+## 📫 Connect With Me  
+- 📧 Email: jquines67@gmail.com 
+- 🌐 LinkedIn: Juniel Quines
+- ⓕ  Facebook: Juniel Quines
+     
