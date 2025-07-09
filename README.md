@@ -3,8 +3,7 @@
 
 ---
 
-## 👩‍🎓 About Me  
-- 📚 Currently studying at **Batangas State University**, taking courses in Computer Engineering.  
+## 👩‍🎓 About Me    
 - 🚀 Passionate about technology, solving problems, and creating efficient systems.  
 
 ---
