@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm **Juniel Quines**  
-👨‍💻 **Computer Engineering Student**
+👨‍💻 **Computer Engineer**
 
 ---
 
@@ -18,7 +18,7 @@
 ---
 
 ## 📫 Connect With Me  
-- 📧 Email: jquines67@gmail.com 
+- 📧 Email: junielquines.dev@gmail.com 
 - 🌐 LinkedIn: Juniel Quines
 - ⓕ  Facebook: Juniel Quines
      
